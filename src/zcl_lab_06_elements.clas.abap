@@ -1,4 +1,4 @@
-class zcl_lab_07_elements definition
+class zcl_lab_06_elements definition
   public
   final
   create public .
@@ -26,7 +26,7 @@ endclass.
 
 
 
-class zcl_lab_07_elements implementation.
+class zcl_lab_06_elements implementation.
 
   method set_object.
     me->ms_object = is_object.
